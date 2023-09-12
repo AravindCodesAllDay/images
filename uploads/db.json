@@ -1,0 +1,468 @@
+{
+"house":[
+{
+"id":1,
+"name":"home",
+"photo":"https://raw.githubusercontent.com/AravindCodesAllDay/images/main/uploads/house.png",
+"coordinates":[
+{
+"id": 1,
+"shape": "poly",
+"name": "front door",
+"goto": "hallway",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [
+472,
+298,
+543,
+300,
+543,
+452,
+473,
+457
+]
+},
+{
+"id": 2,
+"shape": "poly",
+"name": "garage",
+"infoType": "carGarage",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+679,
+301,
+959,
+292,
+961,
+467,
+677,
+479
+]
+},
+{
+"id": 3,
+"shape": "poly",
+"name": "Sitout",
+"goto":"sitout",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+751,
+128,
+899,
+132,
+898,
+204,
+749,
+204
+]
+},
+{
+"id": 4,
+"shape": "poly",
+"name": "Roof",
+"infoType": "roof",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+587,
+127,
+700,
+275,
+229,
+285,
+130,
+127
+]
+}
+]
+},
+{
+"id":2,
+"name":"hallway",
+"photo":"https://raw.githubusercontent.com/AravindCodesAllDay/images/main/uploads/hallway.png",
+"coordinates":[
+{
+"id": 1,
+"shape": "poly",
+"name": "Bathroom",
+"goto": "bathroom",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [
+437,
+156,
+571,
+152,
+568,
+474,
+442,
+443
+]
+},
+{
+"id": 2,
+"shape": "poly",
+"name": "Kitchen",
+"goto":"kitchen",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+860,
+152,
+1059,
+148,
+1060,
+602,
+857,
+550
+]
+},
+{
+"id": 3,
+"shape": "poly",
+"name": "first-floor",
+"goto":"firstfloor",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+311,
+270,
+520,
+385,
+524,
+572,
+311,
+638
+]
+}
+]
+},
+{
+"id":3,
+"name":"firstfloor",
+"photo":"https://raw.githubusercontent.com/AravindCodesAllDay/images/main/uploads/firstfloor.png",
+"coordinates":[
+{
+"id": 1,
+"shape": "poly",
+"name": "Bedroom",
+"goto": "bedroom",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [
+925,
+102,
+1150,
+92,
+1149,
+564,
+921,
+526
+]
+},
+{
+"id": 2,
+"shape": "poly",
+"name": "Sitout",
+"goto":"sitout",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+64,
+62,
+274,
+43,
+272,
+503,
+62,
+461
+]
+},
+{
+"id": 3,
+"shape": "poly",
+"name": "DrinkingWater",
+"infoType": "drinkingWater",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+697,
+272,
+860,
+263,
+866,
+531,
+795,
+570,
+694,
+551
+]
+}
+]
+},
+{
+"id":4,
+"name":"bedroom",
+"photo":"https://raw.githubusercontent.com/AravindCodesAllDay/images/main/uploads/bedroom.png",
+"coordinates":[
+{
+"id": 1,
+"shape": "poly",
+"name": "Sitout",
+"goto": "sitout",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [
+419,
+206,
+536,
+206,
+541,
+421,
+418,
+426
+]
+},
+{
+"id": 2,
+"shape": "poly",
+"name": "First Floor",
+"goto":"firstfloor",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+299,
+176,
+363,
+199,
+364,
+431,
+301,
+413
+]
+},
+{
+"id": 3,
+"shape": "poly",
+"name": "Television",
+"infoType": "tv",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+86,
+288,
+247,
+303,
+247,
+401,
+86,
+449
+]
+},
+{
+"id": 4,
+"shape": "poly",
+"name": "Lamp",
+"infoType": "bulb",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+577,
+53,
+615,
+41,
+687,
+43,
+718,
+55,
+716,
+107,
+679,
+119,
+613,
+118,
+580,
+105
+]
+}
+]
+},
+{
+"id":5,
+"name":"sitout",
+"photo":"https://raw.githubusercontent.com/AravindCodesAllDay/images/main/uploads/sitout.png",
+"coordinates":[
+{
+"id": 1,
+"shape": "poly",
+"name": "Window",
+"goto": "home",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [
+76,
+74,
+244,
+101,
+244,
+476,
+75,
+556
+]
+},
+{
+"id": 2,
+"shape": "poly",
+"name": "Plant",
+"infoType": "indoorPlants",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+1040,
+650,
+1039,
+565,
+1013,
+528,
+1060,
+472,
+1150,
+463,
+1195,
+454,
+1198,
+791
+]
+}
+]
+},
+{
+"id":6,
+"name":"kitchen",
+"photo":"https://raw.githubusercontent.com/AravindCodesAllDay/images/main/uploads/kitchen.png",
+"coordinates":[
+{
+"id": 1,
+"shape": "poly",
+"name": "Stove",
+"infoType": "gasStove",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [
+153,
+350,
+286,
+330,
+401,
+354,
+247,
+384
+]
+},
+{
+"id": 2,
+"shape": "poly",
+"name": "Sink",
+"infoType": "sink",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+652,
+329,
+807,
+348,
+731,
+376,
+569,
+349
+]
+},
+{
+"id": 3,
+"shape": "poly",
+"name": "Cupboard",
+"infoType": "cupboard",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+149,
+45,
+541,
+85,
+541,
+211,
+152,
+227
+]
+}
+]
+},
+{
+"id":7,
+"name":"bathroom",
+"photo":"https://raw.githubusercontent.com/AravindCodesAllDay/images/main/uploads/bathroom.png",
+"coordinates":[
+{
+"id": 1,
+"shape": "poly",
+"name": "Bathtub",
+"infoType": "shower",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [
+111,
+427,
+226,
+528,
+761,
+416,
+620,
+350
+]
+},
+{
+"id": 2,
+"shape": "poly",
+"name": "BathSink",
+"infoType": "sink",
+"fillColor": "#eab54d4d",
+"strokeColor": "rgba(255, 0, 0, 0.8)",
+"lineWidth": "2",
+"coords": [ 
+949,
+343,
+1175,
+370,
+1110,
+436,
+874,
+368
+]
+}
+]
+}
+]
+}
