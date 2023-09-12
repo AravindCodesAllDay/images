@@ -1,0 +1,166 @@
+{
+"info": [
+{
+"rid": null,
+"id": 4,
+"location": "sitout",
+"component": "plants",
+"component_type": "indoorPlants",
+"res_id": 3,
+"reuse": [
+"Community Sharing: Donate or exchange unwanted plant pots with friends, family, or local gardening groups to give them a second life."
+],
+"reduce": [
+"Self-Watering Pots: Consider self-watering plant pots, which can reduce water usage by providing plants with the exact amount of water they need."
+],
+"recycle": [
+"Recyclable Pots: If you have plant pots that are beyond repair or you no longer need, check if they are recyclable according to your local recycling guidelines. Many plastic plant pots can be recycled."
+],
+"link": "https://plantperfect.com/how-to-protect-your-houseplants-from-pests/"
+},
+{
+"rid": null,
+"id": 5,
+"location": "kitchen",
+"component": "storage",
+"component_type": "cupboard",
+"res_id": 4,
+"reuse": [
+"Repurpose Furniture: If you have an old cupboard or cabinet that you no longer need for its original purpose, consider repurposing it as storage in a different room or for a different function."
+],
+"reduce": [
+"Mindful Shopping: Be conscious of what you bring into your cupboards. Buy only what you will use and consume before it expires, reducing food waste."
+],
+"recycle": [
+"Hardware: If you're upgrading your cupboards, save and reuse any hardware like handles, knobs, or hinges on the new cabinets or donate them if they are in good condition."
+],
+"link": "https://www.thespruce.com/cabinet-storage-ideas-5442827"
+},
+{
+"rid": null,
+"id": 6,
+"location": "Home",
+"component": "Waste",
+"component_type": "roof",
+"res_id": 5,
+"reuse": [
+"Reclaimed Roofing Materials: Whenever possible, use reclaimed or salvaged roofing materials when renovating or repairing your roof. This reduces the demand for new materials and decreases waste."
+],
+"reduce": [
+"Solar Panels: Install solar panels on your rooftop to reduce your reliance on grid electricity and lower your energy bills. This reduces the need for fossil fuel-based energy sources."
+],
+"recycle": [
+"Old Roofing Materials: When replacing an old roof, recycle roofing materials such as asphalt shingles, metal, or tile at a local recycling facility or by hiring a roofing contractor that participates in recycling programs."
+],
+"link": "https://cleanmasternortheast.com/whats-the-best-way-of-cleaning-a-roof/"
+},
+{
+"rid": 6,
+"id": 7,
+"location": "garage",
+"component": "storage",
+"component_type": "carGarage",
+"res_id": 6,
+"reuse": [
+"Used Tools and Equipment: Consider buying used tools and equipment when possible, or share tools with neighbors or friends to reduce the number of items cluttering your garage."
+],
+"reduce": [
+"Mindful Purchases: Be selective about what you bring into your garage. Avoid buying tools or equipment that you'll rarely use, reducing unnecessary consumption."
+],
+"recycle": [
+"Metal Recycling: Recycle scrap metal, including old vehicle parts or broken tools, at local scrap yards or metal recycling facilities."
+],
+"link": "https://www.bramanmotorsbmw.com/blog/2021/march/25/15-spring-cleaning-tips-for-your-garage-luxury-car.htm"
+},
+{
+"rid": 2,
+"id": 3,
+"location": "Hallway",
+"component": "Water",
+"component_type": "drinkingWater",
+"res_id": 2,
+"reuse": [
+"Filter Cartridge Replacements: Some water filter systems allow you to replace just the filter cartridge rather than the entire unit. Be sure to follow the manufacturer's recommendations for filter replacement intervals."
+],
+"reduce": [
+"Filtered Water Pitchers: If you use filtered water pitchers, fill them with tap water and refrigerate, so you don't need to run the filter every time you want cold, filtered water."
+],
+"recycle": [
+"Electronics Recycling: Electronic water filtration systems may contain electronic components that need proper disposal. Recycle these systems at designated electronics recycling facilities to ensure environmentally responsible disposal."
+],
+"link": "https://www.swox.com/impact/10-ways-to-save-water/"
+},
+{
+"rid": null,
+"id": 10,
+"location": "kitchen",
+"component": "Water",
+"component_type": "sink",
+"res_id": 9,
+"reuse": [
+"Containers: Reuse glass jars or plastic containers for storing dish soap, scrubbers, or homemade cleaning solutions."
+],
+"reduce": [
+"Chemical Usage: Reduce the use of harsh chemical cleaners by opting for environmentally-friendly and non-toxic alternatives."
+],
+"recycle": [
+"Metal Scraps: If you have old faucets or other metal sink fixtures that need to be replaced, recycle the metal components."
+],
+"link": "https://www.bing.com/ck/a?!&&p=9175052cf4f8e297JmltdHM9MTY5NDMwNDAwMCZpZ3VpZD0wZmE5ODI3ZC02YzBkLTZjYWQtMmM3Ny05MTU2NmQ2ZDZkNDcmaW5zaWQ9NTIxMw&ptn=3&hsh=3&fclid=0fa9827d-6c0d-6cad-2c77-91566d6d6d47&psq=sink+water+recycling+techniques&u=a1aHR0cHM6Ly93d3cud2lraWhvdy5saWZlL1JlY3ljbGUtV2F0ZXI&ntb=1"
+},
+{
+"rid": null,
+"id": 11,
+"location": "kitchen",
+"component": "fossilFuel",
+"component_type": "gasStove",
+"res_id": 10,
+"reuse": [
+"Cookware: Invest in high-quality, durable cookware that can be reused for many years. Cast iron skillets, for example, can last a lifetime if properly maintained."
+],
+"reduce": [
+"Meal Planning: Plan your meals to avoid overcooking or wasting food. Use leftovers creatively to create new dishes."
+],
+"recycle": [
+"Packaging Materials: Recycle cardboard packaging from kitchen appliances, such as stoves or ovens. Check your local recycling guidelines for proper disposal."
+],
+"link": "https://www.lushome.com/20-ways-reuse-recycle-old-kitchen-stoves-home-decorating/143881"
+},
+{
+"rid": 11,
+"id": 12,
+"location": "bedRoom",
+"component": "electricity",
+"component_type": "bulb",
+"res_id": 11,
+"reuse": [
+"Bulb Replacement: Instead of disposing of lamps with burnt-out bulbs, replace the bulbs and continue using the lamp. Many lamps allow for bulb replacement."
+],
+"reduce": [
+"Natural Light: Utilize natural daylight by placing lamps strategically near windows and using them only when necessary during the day."
+],
+"recycle": [
+"Bulb Recycling: LED and CFL bulbs contain small amounts of hazardous materials, so they should be recycled properly. Check with your local recycling program or a nearby recycling center for bulb recycling options."
+],
+"link": "https://www.bing.com/ck/a?!&&p=9a120bbd6dd1a30cJmltdHM9MTY5NDMwNDAwMCZpZ3VpZD0wZmE5ODI3ZC02YzBkLTZjYWQtMmM3Ny05MTU2NmQ2ZDZkNDcmaW5zaWQ9NTI5NQ&ptn=3&hsh=3&fclid=0fa9827d-6c0d-6cad-2c77-91566d6d6d47&psq=bulb+reuse+techniques&u=a1aHR0cHM6Ly9saXZlbHl3YXR0LmNvbS9ob3ctdG8tcmVjeWNsZS1saWdodC1idWxicy1jcmVhdGl2ZS1hbmQtZWNvLWZyaWVuZGx5LXdheXMv&ntb=1"
+},
+{
+"rid": 12,
+"id": 13,
+"location": "bathRoom",
+"component": "Water",
+"component_type": "shower",
+"res_id": 12,
+"reuse": [
+"Towels: Reuse towels between showers to reduce laundry frequency. Hang them up to dry between uses."
+],
+"reduce": [
+"Temperature Regulation: Avoid using extremely hot water, as it requires more energy to heat. Try to find a comfortable water temperature that doesn't require excessive heating."
+],
+"recycle": [
+"Bathroom Fixtures: When remodeling your bathroom or replacing fixtures, check if old fixtures can be recycled or repurposed rather than ending up in a landfill."
+],
+"link": "https://time.com/6143604/showers-recycled-water/"
+}
+]
+}
